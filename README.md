@@ -9,3 +9,5 @@ FindaDu is an React Native app that allows users to find the closest restrooms g
 
 Here is a video demo of the app:
 
+https://user-images.githubusercontent.com/29228684/132407310-3ae8167c-2048-4e4a-82dd-99f502b87a23.mp4
+
